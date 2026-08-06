@@ -1,5 +1,3 @@
-# Mi Colombia
+# Mi Colombia v1.0
 
-Atlas personal interactivo para registrar los 32 departamentos de Colombia y Bogotá D.C.
-
-Versión 1.0.
+Versión final: mapa interactivo, tarjeta fija, San Andrés y Providencia, enlaces verificados y animaciones suaves.
