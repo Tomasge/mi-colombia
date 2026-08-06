@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Amazonas",
+    "capital": "Leticia",
+    "region": "Amazonía",
+    "area": 109665,
+    "pop": 85896,
+    "wiki": "https://es.wikipedia.org/wiki/Amazonas",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Amazonas%2C%20Colombia"
+  },
+  {
+    "name": "Antioquia",
+    "capital": "Medellín",
+    "region": "Andina",
+    "area": 63612,
+    "pop": 6963990,
+    "wiki": "https://es.wikipedia.org/wiki/Antioquia",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Antioquia%2C%20Colombia"
+  },
+  {
+    "name": "Arauca",
+    "capital": "Arauca",
+    "region": "Orinoquía",
+    "area": 23818,
+    "pop": 280022,
+    "wiki": "https://es.wikipedia.org/wiki/Arauca",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Arauca%2C%20Colombia"
+  },
+  {
+    "name": "Atlántico",
+    "capital": "Barranquilla",
+    "region": "Caribe",
+    "area": 3388,
+    "pop": 2885904,
+    "wiki": "https://es.wikipedia.org/wiki/Atl%C3%A1ntico",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Atl%C3%A1ntico%2C%20Colombia"
+  },
+  {
+    "name": "Bogotá D.C.",
+    "capital": "Bogotá",
+    "region": "Andina",
+    "area": 1775,
+    "pop": 7945996,
+    "wiki": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Bogot%C3%A1%20D.C.%2C%20Colombia"
+  },
+  {
+    "name": "Bolívar",
+    "capital": "Cartagena de Indias",
+    "region": "Caribe",
+    "area": 25978,
+    "pop": 2251190,
+    "wiki": "https://es.wikipedia.org/wiki/Bol%C3%ADvar",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Bol%C3%ADvar%2C%20Colombia"
+  },
+  {
+    "name": "Boyacá",
+    "capital": "Tunja",
+    "region": "Andina",
+    "area": 23189,
+    "pop": 1295848,
+    "wiki": "https://es.wikipedia.org/wiki/Boyac%C3%A1",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Boyac%C3%A1%2C%20Colombia"
+  },
+  {
+    "name": "Caldas",
+    "capital": "Manizales",
+    "region": "Andina",
+    "area": 7888,
+    "pop": 1056839,
+    "wiki": "https://es.wikipedia.org/wiki/Caldas",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Caldas%2C%20Colombia"
+  },
+  {
+    "name": "Caquetá",
+    "capital": "Florencia",
+    "region": "Amazonía",
+    "area": 88965,
+    "pop": 431867,
+    "wiki": "https://es.wikipedia.org/wiki/Caquet%C3%A1",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Caquet%C3%A1%2C%20Colombia"
+  },
+  {
+    "name": "Casanare",
+    "capital": "Yopal",
+    "region": "Orinoquía",
+    "area": 44640,
+    "pop": 477966,
+    "wiki": "https://es.wikipedia.org/wiki/Casanare",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Casanare%2C%20Colombia"
+  },
+  {
+    "name": "Cauca",
+    "capital": "Popayán",
+    "region": "Pacífica",
+    "area": 29308,
+    "pop": 1613329,
+    "wiki": "https://es.wikipedia.org/wiki/Cauca",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Cauca%2C%20Colombia"
+  },
+  {
+    "name": "Cesar",
+    "capital": "Valledupar",
+    "region": "Caribe",
+    "area": 22905,
+    "pop": 1493824,
+    "wiki": "https://es.wikipedia.org/wiki/Cesar",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Cesar%2C%20Colombia"
+  },
+  {
+    "name": "Chocó",
+    "capital": "Quibdó",
+    "region": "Pacífica",
+    "area": 46530,
+    "pop": 599468,
+    "wiki": "https://es.wikipedia.org/wiki/Choc%C3%B3",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Choc%C3%B3%2C%20Colombia"
+  },
+  {
+    "name": "Córdoba",
+    "capital": "Montería",
+    "region": "Caribe",
+    "area": 25020,
+    "pop": 2014312,
+    "wiki": "https://es.wikipedia.org/wiki/C%C3%B3rdoba",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20C%C3%B3rdoba%2C%20Colombia"
+  },
+  {
+    "name": "Cundinamarca",
+    "capital": "Bogotá",
+    "region": "Andina",
+    "area": 22633,
+    "pop": 3601277,
+    "wiki": "https://es.wikipedia.org/wiki/Cundinamarca",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Cundinamarca%2C%20Colombia"
+  },
+  {
+    "name": "Guainía",
+    "capital": "Inírida",
+    "region": "Amazonía",
+    "area": 72238,
+    "pop": 61065,
+    "wiki": "https://es.wikipedia.org/wiki/Guain%C3%ADa",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Guain%C3%ADa%2C%20Colombia"
+  },
+  {
+    "name": "Guaviare",
+    "capital": "San José del Guaviare",
+    "region": "Amazonía",
+    "area": 53460,
+    "pop": 84833,
+    "wiki": "https://es.wikipedia.org/wiki/Guaviare",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Guaviare%2C%20Colombia"
+  },
+  {
+    "name": "Huila",
+    "capital": "Neiva",
+    "region": "Andina",
+    "area": 19890,
+    "pop": 1221847,
+    "wiki": "https://es.wikipedia.org/wiki/Huila",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Huila%2C%20Colombia"
+  },
+  {
+    "name": "La Guajira",
+    "capital": "Riohacha",
+    "region": "Caribe",
+    "area": 20848,
+    "pop": 1082618,
+    "wiki": "https://es.wikipedia.org/wiki/La_Guajira",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20La%20Guajira%2C%20Colombia"
+  },
+  {
+    "name": "Magdalena",
+    "capital": "Santa Marta",
+    "region": "Caribe",
+    "area": 23188,
+    "pop": 1558748,
+    "wiki": "https://es.wikipedia.org/wiki/Magdalena",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Magdalena%2C%20Colombia"
+  },
+  {
+    "name": "Meta",
+    "capital": "Villavicencio",
+    "region": "Orinoquía",
+    "area": 85635,
+    "pop": 1166652,
+    "wiki": "https://es.wikipedia.org/wiki/Meta",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Meta%2C%20Colombia"
+  },
+  {
+    "name": "Nariño",
+    "capital": "Pasto",
+    "region": "Pacífica",
+    "area": 33268,
+    "pop": 1721735,
+    "wiki": "https://es.wikipedia.org/wiki/Nari%C3%B1o",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Nari%C3%B1o%2C%20Colombia"
+  },
+  {
+    "name": "Norte de Santander",
+    "capital": "Cúcuta",
+    "region": "Andina",
+    "area": 21648,
+    "pop": 1717792,
+    "wiki": "https://es.wikipedia.org/wiki/Norte_de_Santander",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Norte%20de%20Santander%2C%20Colombia"
+  },
+  {
+    "name": "Putumayo",
+    "capital": "Mocoa",
+    "region": "Amazonía",
+    "area": 24885,
+    "pop": 395590,
+    "wiki": "https://es.wikipedia.org/wiki/Putumayo",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Putumayo%2C%20Colombia"
+  },
+  {
+    "name": "Quindío",
+    "capital": "Armenia",
+    "region": "Andina",
+    "area": 1845,
+    "pop": 557850,
+    "wiki": "https://es.wikipedia.org/wiki/Quind%C3%ADo",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Quind%C3%ADo%2C%20Colombia"
+  },
+  {
+    "name": "Risaralda",
+    "capital": "Pereira",
+    "region": "Andina",
+    "area": 4140,
+    "pop": 1006785,
+    "wiki": "https://es.wikipedia.org/wiki/Risaralda",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Risaralda%2C%20Colombia"
+  },
+  {
+    "name": "San Andrés y Providencia",
+    "capital": "San Andrés",
+    "region": "Caribe",
+    "area": 53,
+    "pop": 63527,
+    "wiki": "https://es.wikipedia.org/wiki/Archipi%C3%A9lago_de_San_Andr%C3%A9s,_Providencia_y_Santa_Catalina",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20San%20Andr%C3%A9s%20y%20Providencia%2C%20Colombia"
+  },
+  {
+    "name": "Santander",
+    "capital": "Bucaramanga",
+    "region": "Andina",
+    "area": 30537,
+    "pop": 2410700,
+    "wiki": "https://es.wikipedia.org/wiki/Santander",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Santander%2C%20Colombia"
+  },
+  {
+    "name": "Sucre",
+    "capital": "Sincelejo",
+    "region": "Caribe",
+    "area": 10917,
+    "pop": 1047052,
+    "wiki": "https://es.wikipedia.org/wiki/Sucre",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Sucre%2C%20Colombia"
+  },
+  {
+    "name": "Tolima",
+    "capital": "Ibagué",
+    "region": "Andina",
+    "area": 23562,
+    "pop": 1390982,
+    "wiki": "https://es.wikipedia.org/wiki/Tolima",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Tolima%2C%20Colombia"
+  },
+  {
+    "name": "Valle del Cauca",
+    "capital": "Cali",
+    "region": "Pacífica",
+    "area": 22140,
+    "pop": 4714987,
+    "wiki": "https://es.wikipedia.org/wiki/Valle_del_Cauca",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Valle%20del%20Cauca%2C%20Colombia"
+  },
+  {
+    "name": "Vaupés",
+    "capital": "Mitú",
+    "region": "Amazonía",
+    "area": 54135,
+    "pop": 44490,
+    "wiki": "https://es.wikipedia.org/wiki/Vaup%C3%A9s",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Vaup%C3%A9s%2C%20Colombia"
+  },
+  {
+    "name": "Vichada",
+    "capital": "Puerto Carreño",
+    "region": "Orinoquía",
+    "area": 100242,
+    "pop": 154190,
+    "wiki": "https://es.wikipedia.org/wiki/Vichada",
+    "trip": "https://www.tripadvisor.co/Search?q=qu%C3%A9%20hacer%20en%20Vichada%2C%20Colombia"
+  }
+]
