@@ -13,3 +13,9 @@ Versión final de la aplicación, con mapa plano y limpio, inset cartográfico s
 ## Ajuste cartográfico final
 
 Se corrigieron las siluetas y proporciones relativas de San Andrés, Providencia y Santa Catalina tomando como referencia cartografía insular, manteniendo el inset compacto y sin relieve artificial.
+
+
+## Créditos
+
+Diseño y desarrollo: **Tomás González**  
+© 2026 Tomás González.
